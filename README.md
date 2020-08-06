@@ -2,8 +2,8 @@
   <a>
 <img src="https://media.discordapp.net/attachments/732298693658542141/736232295467450368/fweak3.gif" alt="Avatar" style="border-radius: 75%;">
   </a><br>
-  📝  Repos: 19<br>
-  😲  Followers: 102<br>
+  📝  Repos: 20<br>
+  😲  Followers: 104<br>
 </p>
 <div class="display">
 <h1 style="text-align: center;" align="center"> Info </h1>

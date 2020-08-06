@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+  <a>
+<img src="https://media.discordapp.net/attachments/732298693658542141/736232295467450368/fweak3.gif" alt="Avatar" style="border-radius: 75%;">
+  </a><br>
+  📝  Repos: 19<br>
+  😲  Followers: 102<br>
+</p>
+<div class="display">
+<h1 style="text-align: center;" align="center"> Info </h1>
+  <p style="text-align: center;"align="center">○ Age: 16 <br></p>
+  <p style="text-align: center;"align="center">○ Location: California, USA<br></p>
+  <p style="text-align: center;"align="center">○ Stuck at home cuz of the rona<br></p>
 
-<!--
-**Fweak/Fweak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 style="text-align: center;" align="center"> Social </h1>
+  <a href="https://twitter.com/fweak1337"><p style="text-align: center;"align="center">○ Twitter<br></p></>
+  <a href="https://github.com/Fweak"><p style="text-align: center;"align="center">○ Github<br></p></>
+  <a href="https://cracked.to/Fweak"> <p style="text-align: center;"align="center">○ Cracked.to<br></p></>
+  <a href="https://discord.com/users/723814215562821714"> <p style="text-align: center;"align="center">○ Discord Profile<br></p></>
+</div>

@@ -21,4 +21,4 @@
   <a href="https://discord.com/users/723814215562821714"><p style="text-align: center;"align="center">Discord</p></a>
 </details>
 
-<h6 style='text-align: center;' align='center'> Idea for new readme look -> github.com/Mxrtis </h6>
+<h6 style='text-align: center;' align='center'> Idea for new readme look -> github.com/0xKyoto </h6>

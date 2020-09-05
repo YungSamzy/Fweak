@@ -2,7 +2,7 @@
   <a>
 <img src="https://media.discordapp.net/attachments/732298693658542141/736232295467450368/fweak3.gif" alt="Avatar" style="border-radius: 75%;">
   </a><br>
-  📝  Repos: 22<br>
+  📝  Repos: 14<br>
   😲  Followers: 130<br>
 </p>
 

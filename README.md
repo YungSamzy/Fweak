@@ -18,7 +18,7 @@
   <summary>Social Info</summary>
   <a href="https://cracked.to/Fweak"><p style="text-align: center;"align="center"> Cracked </p></a>
   <a href="https://twitter.com/fweak1337"><p style="text-align: center;"align="center">Twitter</p></a>
-  <a href="https://discord.com/users/723814215562821714"><p style="text-align: center;"align="center">Discord</p></a>
+  <a href="https://discord.com/users/751995130793295932"><p style="text-align: center;"align="center">Discord</p></a>
 </details>
 
 <h6 style='text-align: center;' align='center'> Idea for new readme look -> github.com/0xKyoto </h6>

@@ -1,6 +1,6 @@
 <p align="left">
   📝  Repos: 13<br>
-  😲  Followers: 151<br>
+  😲  Followers: 156<br>
 </p>
 
 <a     align="left" href="https://twitter.com/fweak1337">

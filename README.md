@@ -1,24 +1,15 @@
-<p align="center">
-  <a>
-<img src="https://media.discordapp.net/attachments/732298693658542141/736232295467450368/fweak3.gif" alt="Avatar" style="border-radius: 75%;">
-  </a><br>
+<p align="left">
   📝  Repos: 13<br>
-  😲  Followers: 156<br>
+  😲  Followers: 151<br>
 </p>
 
-<details style='text-align: center;' align='center'>
-  <summary> Information </summary>
-  <p style="text-align: center;"align="center">Age: 16 </p></a>
-  <p style="text-align: center;"align="center">Location: California, USA</p></a>
-  <p style="text-align: center;"align="center">Doing school on my free-time 😎</p></a>
-  <p style="text-align: center;"align="center">------------------------------------------------------------</p>
-</details>
+<a     align="left" href="https://twitter.com/fweak1337">
+  <img align="left" src="https://brandpalettes.com/wp-content/uploads/2018/02/twitter_logo-300x300.png" height="30px" width="30px"/>
+  <p   align="left">Twitter</p>
+</a>
 
-<details style='text-align: center;' align='center'>
-  <summary>Social Info</summary>
-  <a href="https://cracked.to/Fweak"><p style="text-align: center;"align="center"> Cracked </p></a>
-  <a href="https://twitter.com/fweak1337"><p style="text-align: center;"align="center">Twitter</p></a>
-  <a href="https://discord.com/users/751995130793295932"><p style="text-align: center;"align="center">Discord</p></a>
-</details>
+<a     align="left" href="https://discord.com/users/723814215562821714">
+  <img align="left" src="https://github.com/EramsorGR/EramsorGR/blob/master/Discord-Logo-Color.png?raw=true" height="30px" width="30px"/>
+  <p   align="left">Discord</p>
+</a>
 
-<h6 style='text-align: center;' align='center'> Idea for new readme look -> github.com/0xKyoto </h6>
